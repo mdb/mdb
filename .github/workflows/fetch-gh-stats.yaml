@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: fetch-svg
         id: svg
-        run: curl --output "mdb.svg" "https://github-readme-stats.vercel.app/api\?username\=mdb\&count_private\=true\&include_all_commits\=true\&custom_title\=GitHub%20Stats"
+        run: curl --output "mdb.svg" "https://github-readme-stats.vercel.app/api?username=mdb&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats"
       - name: upload-svg
         uses: actions/upload-artifact@v2
         with:
