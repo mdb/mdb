@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">GitHub Stats, Rank: S</title>
+        <title id="titleId">GitHub Stats, Rank: A++</title>
         <desc id="descId">Total Stars Earned: 275, Total Commits  : 275, Total PRs: 464, Total Issues: 272, Contributed to (last year): 22</desc>
         <style>
           .header {
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 54.87192891002746;
+        stroke-dashoffset: 103.27265944421065;
       }
     }
   
@@ -142,7 +142,7 @@
             dominant-baseline="central"
             text-anchor="middle"
           >
-            S
+            A++
           </text>
         </g>
       </g>
@@ -167,7 +167,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >10.6k</text>
+      >2.9k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
