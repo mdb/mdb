@@ -10,8 +10,8 @@ microservices and REST APIs, automated cloud infrastructure management, and
 built continuous deployment pipelines for large-scale, highly available
 distributed systems. I like using and contributing to open source software.
 
-I've also worked in graphic and UX design. Buy prints of my illustrations at
-[Tiendah](https://tiendah.bigcartel.com).
+I've also worked in graphic and UX design, and as an artist. Prints of my
+visual work can be purchased at [Tiendah](https://tiendah.bigcartel.com).
 
 [mikeball.info](http://mikeball.info) is my personal website and blog.
 
